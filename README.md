@@ -12,7 +12,7 @@ I successfully passed the **Microsoft Azure Data Fundamentals (DP-900)** exam wi
 
 ![DP-900 Certification Badge](https://learn.microsoft.com/en-us/credentials/achievements/azure-data-fundamentals.png)
 
-**Official Microsoft Certification:** [Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+**Official Microsoft Certification:** [Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KartikGawade-7557/DDA0F261F62095FB?sharingId=56FAD36EE2B64351)
 
 ## 📚 Exam Syllabus Breakdown
 
